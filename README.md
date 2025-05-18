@@ -1,4 +1,48 @@
-## Hi there 👋
+# 🔐 Automation Scripts for Network and Security Engineers
+
+Welcome! I'm Zamrin Simweel, a Network Engineer passionate about automation and cybersecurity.
+
+This repository contains real-world PowerShell and Python scripts I've created to:
+- Fix or mitigate common CVEs and vulnerabilities
+- Automate routine tasks across enterprise networks
+- Save time in day-to-day IT and security operations
+
+---
+
+## 🚀 What's Inside
+
+- ✅ CVE Remediation Scripts (e.g., SMBv1 disable, TLS enforcement)
+- 🔁 Automation Utilities (e.g., AD audit, service status, endpoint cleanup)
+- 🧠 Clean, production-safe PowerShell & Python
+
+---
+
+## 📥 Usage
+
+Each script includes:
+- Use case / background
+- Tested platforms
+- Safe usage instructions
+- Logging or output info
+
+---
+
+## 💡 About Me
+
+I'm a full-time Network Engineer focused on making infrastructure smarter and safer.  
+These scripts solve problems I've faced directly in production environments.
+
+If you're looking to automate, secure, or simplify IT operations, feel free to fork, use, or contribute!
+
+---
+
+## ☕ Support My Work
+
+If my work saves you time or effort, you can support me here:  
+simply ⭐ the repo—it helps more than you think!
+
+---
+
 
 <!--
 **idleadmin/idleadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
