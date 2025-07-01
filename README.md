@@ -22,13 +22,12 @@ This repository contains real-world PowerShell and Python scripts I've created t
 
 ---
 
-## 📥 Usage
+## ⚠️ Usage Disclaimer
 
-Each script includes:
-- Use case / background
-- Tested platforms
-- Safe usage instructions
-- Logging or output info
+These scripts are provided as-is and should be tested in a safe environment before production use.
+Always review the code and adapt it to your organization’s needs.
+
+Use at your own risk.
 
 ---
 
