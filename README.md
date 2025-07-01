@@ -1,6 +1,7 @@
 Welcome! I'm Zamrin Simweel, a Network Engineer passionate about automation and cybersecurity.
 
 🛠️ Network Engineer | 🧠 Enthusiastic Learner | ⚙️ Python & PowerShell
+
 Passionate about simplifying IT operations through scripting and smart solutions.
 Sharing tools, scripts, and ideas for modern network infrastructure.
 
