@@ -1,6 +1,10 @@
-# 🔐 Automation Scripts for Network and Security Engineers
-
 Welcome! I'm Zamrin Simweel, a Network Engineer passionate about automation and cybersecurity.
+
+🛠️ Network Engineer | 🧠 Passionate Learner | ⚙️ Python & PowerShell
+Passionate about simplifying IT operations through scripting and smart solutions.
+Sharing tools, scripts, and ideas for modern network infrastructure.
+
+🔗 Always learning. Always optimizing.
 
 This repository contains real-world PowerShell and Python scripts I've created to:
 - Fix or mitigate common CVEs and vulnerabilities
